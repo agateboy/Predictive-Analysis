@@ -6,7 +6,7 @@ Faktor lingkungan fisik merupakan faktor eksternal yang dapat mempengaruhi kiner
 
 Banyaknya pekerja yang mengeluh tentang tidak sesuainya suara kebisingan dan cahaya sering mengganggu kesehatan setelah melakukan aktivitas pekerjaan. [[2]](https://doi.org/10.1007/s13762-016-1072-x)
 
-Dalam proyek ini, saya menggunakan dataset yang telah diambil dari pembacaan nilai sensor menggunakan mikrokontroler dan nilai kenyamanan dari para pekerja. Dan data disimpan dalam [Google Drive](drive.google.com).
+Dalam proyek ini, saya menggunakan dataset yang telah diambil dari pembacaan nilai sensor menggunakan mikrokontroler dan nilai kenyamanan dari para pekerja sebanyak 2000 data dan disimpan dalam [Google Drive](drive.google.com).
 
 ## Business Understanding
 
